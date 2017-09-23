@@ -1,0 +1,2 @@
+USE LOCACAO; 
+GO
